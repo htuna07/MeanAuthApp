@@ -1,0 +1,27 @@
+{
+  "name": "meanproje",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "angular2-flash-messages": "^3.0.1",
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "bootstrap": "^3.3.7",
+    "cors": "*",
+    "express": "*",
+    "jquery": "^3.3.1",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "nodemon": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "tether": "^1.4.5"
+  },
+  "author": "Tuna",
+  "license": "ISC"
+}
