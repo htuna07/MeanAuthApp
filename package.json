@@ -11,7 +11,7 @@
     "angular2-flash-messages": "^3.0.1",
     "bcryptjs": "*",
     "body-parser": "*",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "cors": "*",
     "express": "*",
     "jquery": "^3.3.1",
